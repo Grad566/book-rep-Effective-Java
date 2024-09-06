@@ -1,0 +1,7 @@
+package org.example.createAndDestroyObjects;
+
+public class FabricMethood {
+    public static Boolean valueOf(boolean b) {
+        return b ? Boolean.TRUE : Boolean.FALSE;
+    }
+}
