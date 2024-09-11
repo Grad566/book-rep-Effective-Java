@@ -5,11 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fcaabdf-4bc3-4731-a1de-85e38d975045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/WordList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/AbstractMapEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/ForwardingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/InstrumentedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/Chooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/Ensemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/PayrollDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/Elvis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Elvis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/Elvis2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Elvis2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/Elvis3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Elvis3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/FabricMethood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/FabricMethood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/NutritionFacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/NutritionFacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/NyPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/NyPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/RomanNumerals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createAndDestroyObjects/Utilityclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Utilityclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +44,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>

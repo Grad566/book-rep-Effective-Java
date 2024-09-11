@@ -1,7 +1,6 @@
 package org.example;
 
-import org.example.createAndDestroyObjects.FabricMethood;
-import org.example.createAndDestroyObjects.NutritionFacts;
+import org.example.chapter2.NutritionFacts;
 
 public class Main {
     public static void main(String[] args) {

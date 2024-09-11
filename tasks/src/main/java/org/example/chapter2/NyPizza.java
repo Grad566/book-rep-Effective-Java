@@ -1,4 +1,4 @@
-package org.example.createAndDestroyObjects;
+package org.example.chapter2;
 
 import java.util.Objects;
 
